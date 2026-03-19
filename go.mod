@@ -6,8 +6,8 @@ require (
 	github.com/gobwas/glob v0.2.3
 	github.com/google/go-github/v45 v45.2.0
 	github.com/jessevdk/go-flags v1.6.1
-	github.com/sirupsen/logrus v1.9.3
-	github.com/stretchr/testify v1.9.0
+	github.com/sirupsen/logrus v1.9.4
+	github.com/stretchr/testify v1.10.0
 	golang.org/x/oauth2 v0.22.0
 	gopkg.in/yaml.v2 v2.4.0
 )
