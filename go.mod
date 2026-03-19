@@ -1,6 +1,6 @@
 module github.com/ilyam8/periodic-pr-labeler
 
-go 1.20
+go 1.25.0
 
 require (
 	github.com/gobwas/glob v0.2.3
@@ -8,7 +8,7 @@ require (
 	github.com/jessevdk/go-flags v1.6.1
 	github.com/sirupsen/logrus v1.9.3
 	github.com/stretchr/testify v1.9.0
-	golang.org/x/oauth2 v0.22.0
+	golang.org/x/oauth2 v0.36.0
 	gopkg.in/yaml.v2 v2.4.0
 )
 
